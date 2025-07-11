@@ -37,3 +37,10 @@ https://github.com/sobhi777/javascript-projects
     <!-- Demo thumbnails here -->
   </div>
 </div>
+cd path/to/your-folder
+git init
+git add .
+git commit -m "Add one‑page website with lightbox"
+git remote add origin https://github.com/sobhi777/sobhi777-one-page.git
+git branch -M main
+git push -u origin main
